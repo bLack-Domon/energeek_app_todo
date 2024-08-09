@@ -1,8 +1,7 @@
-# Energeek
-
-Folder `energeek` berisi beberapa proyek dan data terkait. Berikut adalah penjelasan tentang isi dari folder ini:
-
 ## 1. Folder Projek Laravel (API TODO)
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+
 Untuk melakukan uji coba pada API ini, kunjungi [link dokumentasi Postman](https://documenter.getpostman.com/view/27289998/2sA3s1pCAC). Folder ini berisi proyek Laravel 10 yang digunakan untuk API TODO. Proyek ini mencakup semua file dan konfigurasi yang diperlukan untuk API yang mengelola daftar tugas (to-do list).
 
 - **Struktur Folder**:
@@ -17,7 +16,7 @@ Untuk melakukan uji coba pada API ini, kunjungi [link dokumentasi Postman](https
 - **Penggunaan API**:
   - Untuk proses POST pada endpoint `/todos`, Anda perlu menambahkan header `Content-Type: application/json` dan memilih `raw` JSON pada body permintaan.
 
-## 2. Folder Projek VUE3 (FrontEnd)
+## 2. Folder Projek VUE3 (Todo_Energeek)
 
 Folder ini berisi proyek Vue.js versi 3 yang digunakan untuk frontend aplikasi TODO. Proyek ini mencakup semua file terkait tampilan pengguna (UI) dan interaksi frontend.
 
