@@ -3,7 +3,7 @@
 Folder `energeek` berisi beberapa proyek dan data terkait. Berikut adalah penjelasan tentang isi dari folder ini:
 
 ## 1. Folder Projek Laravel (API TODO)
-
+Untuk melakukan uji coba pada api ini bisa mengunjungi link berikut : https://documenter.getpostman.com/view/27289998/2sA3s1pCAC
 Folder ini berisi proyek Laravel yang digunakan untuk API TODO. Proyek ini mencakup semua file dan konfigurasi yang diperlukan untuk API yang mengelola daftar tugas (to-do list).
 
 - **Struktur Folder**:
